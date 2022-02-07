@@ -1,3 +1,14 @@
 main{
-
+    position:absolute;
+    background-color: lightblue;
+    margin: auto;
+    width:70%;
+    height:300px;
+    top: 100px;
+    left: 10%;
+}
+header h1 {
+    position: absolute;
+    left: 20%;
+    top: 90px;
 }
